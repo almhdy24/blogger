@@ -1,0 +1,15 @@
+{
+    "name": "almhdy/blogger",
+    "autoload": {
+        "psr-4": {
+            "Almhdy\\Blogger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "almhdy24",
+            "email": "almhdybdallh24@gmail.com"
+        }
+    ],
+    "require": {}
+}
