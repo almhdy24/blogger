@@ -2,7 +2,8 @@
     "name": "almhdy/blogger",
     "autoload": {
         "psr-4": {
-            "Almhdy\\Blogger\\": "src/"
+            "App":"app/" 
+            "Blogger\\": "src/"
         }
     },
     "authors": [
